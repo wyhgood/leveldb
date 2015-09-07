@@ -45,7 +45,6 @@ include/status.h
 include/env.h
     Abstraction of the OS environment.  A posix implementation of
     this interface is in util/env_posix.cc
-
 include/table.h
 include/table_builder.h
     Lower-level modules that most clients probably won't use directly
